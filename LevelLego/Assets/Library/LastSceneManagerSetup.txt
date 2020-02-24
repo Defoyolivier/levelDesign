@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Scenes/Lego.unity
-  isLoaded: 1
-  isActive: 1
